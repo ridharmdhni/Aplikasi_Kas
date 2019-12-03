@@ -1,0 +1,22 @@
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.exe.config
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.exe
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.pdb
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.xml
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.vbprojResolveAssemblyReference.cache
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project_Praktikum.Form1.resources
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project_Praktikum.Resources.resources
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.vbproj.GenerateResource.Cache
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.exe
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.xml
+D:\Semester 5\Pemrograman Visual\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.pdb
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.exe.config
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.exe
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.xml
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.pdb
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.exe
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.pdb
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\bin\Debug\Project Praktikum.xml
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\Project_Praktikum.Form1.resources
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\Project_Praktikum.Resources.resources
+D:\Kuliah\Semester V\Pemrograman Visual\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\Project Praktikum.vbproj.GenerateResource.Cache
